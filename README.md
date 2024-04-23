@@ -31,7 +31,7 @@ The project employed a combination of advanced analytics methodologies and indus
 - Pivot Tables for building dynamic and interactive reports.
 - Incorporating supplementary data into an existing data model.
 - Implementing user-centric reports with conditional formatting to optimize user experience and readability.
-## Some Major Insights
+
 
 
 
