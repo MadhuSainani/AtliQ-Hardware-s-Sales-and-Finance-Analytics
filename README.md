@@ -11,14 +11,14 @@ The project aims to integrate sales and finance analytics in order to tackle cha
 This project includes the development of diverse reports customized to assist AtliQ's sales and finance teams in making data-driven decisions. These reports consist of:
 
 ### Sales Analytics Reports
-- **Customer Net Sales Performance Report:** This report describes various sales activites of customers over the years. [Customer Net Sales Performance Report](https://github.com/MadhuSainani/AtliQ-Hardware-s-Sales-and-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Perofrmance%20Report.pdf)
-- **Market Performance Vs Target:** This report includes a detailed comparison between countries and their sales targets for year 2021. [Market Performance Vs Target](https://github.com/MadhuSainani/AtliQ-Hardware-s-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20in%202021.pdf)
+- **[Customer Net Sales Performance Report](https://github.com/MadhuSainani/AtliQ-Hardware-s-Sales-and-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Perofrmance%20Report.pdf)** This report describes various sales activites of customers over the years. 
+- **[Market Performance Vs Target](https://github.com/MadhuSainani/AtliQ-Hardware-s-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20in%202021.pdf)** This report includes a detailed comparison between countries and their sales targets for year 2021. 
 
 ### Finance Analytics Reports
 
 - **[P&L by Fiscal Year](https://github.com/MadhuSainani/AtliQ-Hardware-s-Sales-and-Finance-Analytics/blob/main/P%26L%20by%20FY.pdf)** This report offers the comprehensive overview of Net Sales, COGS, GM, and GM% across multiple fiscal years, which adds in financial planning for the company.
-- **P&L by Quarters and Fiscal Months:** This report provides granular insights into financial performance at quarterly and monthly intervals.
-- **P&L by Markets:** Detailed comparison of Net Sales, COGS, GM, and GM% among different markets for the years 2020 and 2021, identifying areas for improvement and optimization.
+- **[P&L by Quarters and Fiscal Months](https://github.com/MadhuSainani/AtliQ-Hardware-s-Sales-and-Finance-Analytics/blob/main/P%26L%20by%20Quarters%20and%20Months.pdf)** This report provides granular insights into financial performance at quarterly and monthly intervals.
+- **[P&L by Markets](https://github.com/MadhuSainani/AtliQ-Hardware-s-Sales-and-Finance-Analytics/blob/main/P%26L%20by%20Market.pdf)** Detailed comparison of Net Sales, COGS, GM, and GM% among different markets for the years 2020 and 2021, identifying areas for improvement and optimization.
 
 ## Methodologies and Tools Utilized
 
