@@ -12,11 +12,11 @@ This project includes the development of diverse reports customized to assist At
 
 ### Sales Analytics Reports
 - **Customer Net Sales Performance Report:** This report describes various sales activites of customers over the years. [Customer Net Sales Performance Report](https://github.com/MadhuSainani/AtliQ-Hardware-s-Sales-and-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Perofrmance%20Report.pdf)
-- **Market Performance Vs Target:** This report includes a detailed comparison between countries and their sales targets for year 2021.
+- **Market Performance Vs Target:** This report includes a detailed comparison between countries and their sales targets for year 2021. [Market Performance Vs Target](https://github.com/MadhuSainani/AtliQ-Hardware-s-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20in%202021.pdf)
 
 ### Finance Analytics Reports
 
-- **P&L by Fiscal Year:** This report offers the comprehensive overview of Net Sales, COGS, GM, and GM% across multiple fiscal years, which adds in financial planning for the company.
+- **[P&L by Fiscal Year](https://github.com/MadhuSainani/AtliQ-Hardware-s-Sales-and-Finance-Analytics/blob/main/P%26L%20by%20FY.pdf)** This report offers the comprehensive overview of Net Sales, COGS, GM, and GM% across multiple fiscal years, which adds in financial planning for the company.
 - **P&L by Quarters and Fiscal Months:** This report provides granular insights into financial performance at quarterly and monthly intervals.
 - **P&L by Markets:** Detailed comparison of Net Sales, COGS, GM, and GM% among different markets for the years 2020 and 2021, identifying areas for improvement and optimization.
 
