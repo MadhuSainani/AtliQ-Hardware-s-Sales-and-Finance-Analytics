@@ -32,6 +32,13 @@ The project employed a combination of advanced analytics methodologies and indus
 - Incorporating supplementary data into an existing data model.
 - Implementing user-centric reports with conditional formatting to optimize user experience and readability.
 
+## Some Major Insights
+- Amazon is the standout customer with the highest Net Sales of $82.1 M in 2021.
+- Nova is the top customer based on % increase in their Net Sales from 2020 to 2021.
+- India, USA, and South Korea have been top 3 markets for three consecutive years: 2019, 2020, 2021.
+- Although India is the top market for AtliQ Hardware, it has shown highest lagging of -9.1 M behind the target sales among all markets.
+- New Zealand's GM% surged from 26.4% in 2020 to 48.2% in 2021, marking an 83% increase.
+- December records the highest net sales, but the GM% is lower, possibly due to Diwali discounts.
 
 
 
