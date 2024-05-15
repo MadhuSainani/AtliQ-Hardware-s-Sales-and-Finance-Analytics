@@ -3,9 +3,9 @@
 AtliQ Hardware, a renowned global hardware company, provides high-quality hardware and peripherals to its customers worldwide. With a strong presence in multiple countries, AtliQ is recognized for its reliability and ingenuity in its product offerings. However, the company has recently encountered a major setback in its operations within Latin America. This setback, which appeared as decreasing sales numbers and challenges in market penetration, has raised concerns within the company about its strategic approach and operational effectiveness in the region.
 The project aims to integrate sales and finance analytics in order to tackle challenges related to optimizing sales performance and enhancing net gross margins.
 
-## Objective
-- Analyze over half a million records of unorganized sales and finance data and develop comprehensive sales and finance reports for the years 2019, 2020, and 2021.
-- Utilize Excel as the primary tool for data analysis and report generation.
+## Task
+- To Analyze over half a million records of unorganized sales and finance data and develop comprehensive sales and finance reports for the years 2019, 2020, and 2021.
+- TO Utilize Excel as the primary tool for data analysis and report generation.
 
 ## Reports
 This project includes the development of diverse reports customized to assist AtliQ's sales and finance teams in making data-driven decisions. These reports consist of:
@@ -31,6 +31,8 @@ The project employed a combination of advanced analytics methodologies and indus
 - Pivot Tables for building dynamic and interactive reports.
 - Incorporating supplementary data into an existing data model.
 - Implementing user-centric reports with conditional formatting to optimize user experience and readability.
+
+
 
 
 
