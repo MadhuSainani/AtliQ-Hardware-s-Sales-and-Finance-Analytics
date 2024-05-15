@@ -4,7 +4,7 @@ AtliQ Hardware, a renowned global hardware company, provides high-quality hardwa
 The project aims to integrate sales and finance analytics in order to tackle challenges related to optimizing sales performance and enhancing net gross margins.
 
 ## Task
-- To Analyze over half a million records of unorganized sales and finance data and develop comprehensive sales and finance reports for the years 2019, 2020, and 2021.
+- To Analyze over half a million records of unorganized sales and finance data and develop comprehensive P&L reports for the years 2019, 2020, and 2021.
 - TO Utilize Excel as the primary tool for data analysis and report generation.
 
 ## Reports
