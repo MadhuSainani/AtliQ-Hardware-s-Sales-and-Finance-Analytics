@@ -11,7 +11,7 @@ The project aims to integrate sales and finance analytics in order to tackle cha
 This project includes the development of diverse reports customized to assist AtliQ's sales and finance teams in making data-driven decisions. These reports consist of:
 
 ### Sales Analytics Reports
-- **Customer Net Sales Performance Report:** This report describes various sales activites of customers over the years.
+- **Customer Net Sales Performance Report:** This report describes various sales activites of customers over the years. [Customer Net Sales Performance Report](https://github.com/MadhuSainani/AtliQ-Hardware-s-Sales-and-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Perofrmance%20Report.pdf)
 - **Market Performance Vs Target:** This report includes a detailed comparison between countries and their sales targets for year 2021.
 
 ### Finance Analytics Reports
