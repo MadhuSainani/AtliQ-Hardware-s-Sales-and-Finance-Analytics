@@ -5,7 +5,7 @@ The project aims to integrate sales and finance analytics in order to tackle cha
 
 ## Task
 - To Analyze over half a million records of unorganized sales and finance data and develop comprehensive P&L reports for the years 2019, 2020, and 2021.
-- TO Utilize Excel as the primary tool for data analysis and report generation.
+- To Utilize Excel as the primary tool for data analysis and report generation.
 
 ## Reports
 This project includes the development of diverse reports customized to assist AtliQ's sales and finance teams in making data-driven decisions. These reports consist of:
