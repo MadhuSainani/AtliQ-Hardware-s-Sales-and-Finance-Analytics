@@ -1,4 +1,4 @@
-# AtliQ-Hardware-s-Sales-and-Finance-Analytics
+# P&L Reports
 ## Problem Statement
 AtliQ Hardware, a renowned global hardware company, provides high-quality hardware and peripherals to its customers worldwide. With a strong presence in multiple countries, AtliQ is recognized for its reliability and ingenuity in its product offerings. However, the company has recently encountered a major setback in its operations within Latin America. This setback, which appeared as decreasing sales numbers and challenges in market penetration, has raised concerns within the company about its strategic approach and operational effectiveness in the region.
 The project aims to integrate sales and finance analytics in order to tackle challenges related to optimizing sales performance and enhancing net gross margins.
